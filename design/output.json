@@ -1,0 +1,7 @@
+{
+  "selected": [
+    { "id": "sender/name", "contentType": "text/string", "value": "Three Amigos" },
+    { "id": "sender/country", "contentType": "text/string", "value": "US" },
+    { "id": "sender/postcode", "contentType": "", "value": "90351" }
+  ]
+}
