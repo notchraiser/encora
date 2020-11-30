@@ -11,6 +11,7 @@ export default makeStyles((theme) => ({
   },
   text: {
     fontSize: "x-small",
+    width: "150px",
   },
   span:{
     fontSize: "x-small",
